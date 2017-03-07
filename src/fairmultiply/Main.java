@@ -20,5 +20,8 @@ public class Main {
         Remainder aniel = new Remainder(9,4);
         //int num6 = aniel.getnum(10 ,3);
         aniel.display();
+
+        Divide divide = new Divide(12,5);
+        divide.display();
     }
 }
