@@ -5,8 +5,13 @@ package inputtest;
  */
 public class Main {
     public static void main(String[] args) {
-        Name name = new Name();
+        /*Name name = new Name();
         name.getName();
-        name.display();
+        name.display();*/
+
+        Roll roll = new Roll();
+        roll.getname();
+        roll.display();
+
     }
 }
